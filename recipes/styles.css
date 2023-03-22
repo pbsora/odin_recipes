@@ -1,0 +1,19 @@
+
+        .titulo.pagina{
+            color: red;
+        }
+        body{
+            background-color: aqua;
+        }
+
+        h1{
+            font-family: 'Franklin Gothic Medium';
+            font-size: 60px;
+            text-align: center;
+        }
+
+        li{
+            font-size: 25px;
+            font-weight: bold;
+        }
+ 
